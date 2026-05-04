@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\sydne\Desktop\ComputerScienceShiz\UrANerdLol\DSProjects\s20-pa01-sentimentanalysis-sydneyireland24
+CMake Error: File C:/Users/sydne/Desktop/ComputerScienceShiz/UrANerdLol/DSProjects/s20-pa01-sentimentanalysis-sydneyireland24/dev-train-data-sm.csv does not exist.
+CMake Error at CMakeLists.txt:24 (configure_file):
+  configure_file Problem configuring file
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/sydne/Desktop/ComputerScienceShiz/UrANerdLol/DSProjects/s20-pa01-sentimentanalysis-sydneyireland24/cmake-build-debug/CMakeFiles/CMakeOutput.log".
