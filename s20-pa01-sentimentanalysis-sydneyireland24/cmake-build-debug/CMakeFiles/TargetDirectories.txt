@@ -1,3 +1,0 @@
-C:/Users/sydne/Desktop/ComputerScienceShiz/UrANerdLol/DSProjects/s20-pa01-sentimentanalysis-sydneyireland24/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sydne/Desktop/ComputerScienceShiz/UrANerdLol/DSProjects/s20-pa01-sentimentanalysis-sydneyireland24/cmake-build-debug/CMakeFiles/SentimentAnalyzer.dir
-C:/Users/sydne/Desktop/ComputerScienceShiz/UrANerdLol/DSProjects/s20-pa01-sentimentanalysis-sydneyireland24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
